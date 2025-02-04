@@ -61,7 +61,7 @@ This repository is intended for personal learning and knowledge sharing. However
 
 ## 📬 Contact & Networking
 For discussions, feedback, or collaboration opportunities, connect with me via:
-- **[LinkedIn](https://www.linkedin.com/in/abdalrahman-othman-/)**
-- **[GitHub](https://github.com/AbdalrahmanOthman01/)**
+- **[LinkedIn](https://www.linkedin.com/in/esraa-yaser-/)**
+- **[GitHub](https://github.com/esraaelzaghal/)**
 
 Happy Coding! 🚀
